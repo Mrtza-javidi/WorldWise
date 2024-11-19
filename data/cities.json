@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "7733",
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-10-31T06:13:51.357Z",
+      "notes": "Amazing and so beautiful city",
+      "position": {
+        "lat": 48.21278194870609,
+        "lng": 16.391601562500004
+      }
+    },
+    {
+      "id": "9ef1",
+      "cityName": "Edinburgh",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-10-31T06:17:53.847Z",
+      "notes": "unbelievable historical city",
+      "position": {
+        "lat": 55.95007576486538,
+        "lng": -3.1915283203125004
+      }
+    },
+    {
+      "id": "74b5",
+      "cityName": "Zurich",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-10-31T10:02:44.683Z",
+      "notes": "city and country name speaks, no need for extra words...",
+      "position": {
+        "lat": 47.37388948380006,
+        "lng": 8.540496826171877
+      }
+    }
+  ]
+}
